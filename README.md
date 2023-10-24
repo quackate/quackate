@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Worst Movies Website](https://github.com/quackate/WorstMovie-Website)
 
-- 🌱 I’m currently learning **Full-Stack Software Development @4Geeks**
+- 🌱 I’m currently learning **Full-Stack Software Development @4GeeksAcademy**
 
 - 📫 How to reach me **katena.dr17@gmail.com**
 
