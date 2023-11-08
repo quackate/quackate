@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Kate Deras</h2>
 <h4 align="left">Full Stack Developer, tech enthusiast & free-spirit with a great love for learning new things!🌞🌟</h4>
 
-- 🔭 I’m currently working on [Worst Movies Website](https://github.com/quackate/WorstMovie-Website) & [Restaurant Menu Website](https://github.com/quackate/Restaurant_Menu_Website)
+- 🔭 I’m currently working on [Worst Movies Website](https://github.com/quackate/WorstMovie-Website)
 
 - 🌱 I’m currently learning **Full-Stack Software Development @4GeeksAcademy**
 
