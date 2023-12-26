@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Worst Movies Website](https://github.com/quackate/WorstMovie-Website)
 
-- 🌱 I’m currently learning **Node / Express**✨​
+- 🌱 I’m currently learning **[Node / Express](https://github.com/quackate/curso_nodejs)**✨​
 
 - 📫 How to reach me **katena.dr17@gmail.com**
 
