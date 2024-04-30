@@ -3,8 +3,6 @@
 
 - 🚀 Currently working at [**Harbiz**](https://www.linkedin.com/company/harbiz/) 
 
-- 🌱 I’m currently learning [**Node / Express✨**](https://github.com/quackate/curso_nodejs)
-
 - 📫 How to reach me **katena.dr17@gmail.com**
 
 - ⚡ Fun fact **My passions are tech, med and books!📚🫀​**
